@@ -83,9 +83,9 @@ println(numbers.indexOf(158))
 
 
 
-//    (ii) prints out the index of 158 (1 poin
+//    (ii) prints out the index of 158 (1 point)
 
-//    (iii) prints out the elements in ascending order (2 point
+//    (iii) prints out the elements in ascending order (2 points)
 
 
 
