@@ -66,7 +66,7 @@ fun Take(num1: Int,num2: Int,num3:Int,num4:Int){
 //    prints out the names of the cities in the correct grammatical case. (2 points)
 fun City(){
     var cities = arrayOf("harare", "mumbai", "dodoma", "jakarta")
- println( cities.map { it.capitalize() }.sortedDescending())
+ println( cities.map { it.capitalize() })
     }
 
 
